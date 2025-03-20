@@ -1,4 +1,4 @@
-### Solving the Diner’s Dilemma Game
+# Solving the Diner’s Dilemma Game
 
 <p style="text-align:center;">
   <img src="quantum_circuit.png" alt="Attacking strength simulation">
